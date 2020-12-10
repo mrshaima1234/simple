@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //margin
+    <dimen name="margin_normal">22dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+
+    //textsize
+    <dimen name="text_size_12dp">12sp</dimen>
+    <dimen name="text_size_16dp">16sp</dimen>
+    <dimen name="headerTextSize">22sp</dimen>
+
+    //padding
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_12dp">12dp</dimen>
+
+    <dimen name="loginCardRadius">20dp</dimen>
+    <dimen name="loginViewsMargin">20dp</dimen>
+
+
+
+</resources>
